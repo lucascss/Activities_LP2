@@ -1,20 +1,20 @@
-#### Atividades de LP2
+#### LP2 Activities
 
-_Disciplina_: Laboratório de Programação II - UFCG
+_College subject_: Laboratório de Programação II - UFCG
 
-_Período_: 2016.1
+_Period_: 2016.1
 
-Repositório direcionado às atividades práticas da disciplina de Laboratório de Programação II, do curso de Ciência da Computação, na Universidade Federal de Campina Grande - UFCG. As atividades foram realizadas progressivamente, assim como o apredizado de padrões que fora aplicado gradativamente em cada atividade.
+Repository directed to the practical activities of the discipline of Laboratory of Programming II, of the course of Computer Science, Federal University of Campina Grande - UFCG. The activities were realized progressively, as well as the patterning that had been applied gradually in each activity.
 
-  - _Laboratório 03_: EconomizaP2;
-  - _Laboratório 04_: Sp2fy;
-  - _Labotarório 06_: Central de jogos;
-  - _Laboratório 07_: Central de jogos aprimorada;
+  - _Laboratory 03_: EconomizaP2;
+  - _Laboratory 04_: Sp2fy;
+  - _Laboratory 06_: Central de jogos;
+  - _Laboratory 07_: Central de jogos aprimorada;
 
-_Linguagem utilizada_: Java (https://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html);
+_Language used_: Java (https://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html);
 
-_Testes de unidade_: JUnit 4 (https://junit.org/junit4/);
+_Unit tests_: JUnit 4 (https://junit.org/junit4/);
 
-_Testes de aceitação_: EasyAccept (http://easyaccept.sourceforge.net/);
+_Acceptance tests_: EasyAccept (http://easyaccept.sourceforge.net/);
 
-##### _Toda honra e toda glória, tudo vem Dele e tudo é para Ele: JESUS!_
+##### _All honor and all glory, everything comes from him and everything is for him: JESUS!_
