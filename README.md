@@ -1,4 +1,4 @@
-#### LP2 Activities
+### LP2 Activities
 
 _College subject_: Laboratório de Programação II - UFCG
 
